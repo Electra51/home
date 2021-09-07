@@ -1,0 +1,54 @@
+*{ 
+    font-family: 'Roboto', sans-serif;
+}
+body{background-color: hsl(311deg 100% 15% / 74%);
+    
+}
+/* section{background-color: hsl(311deg 100% 15% / 38%);} */
+
+form{
+margin:0% 4%;
+height: 300px;
+}
+.card{ 
+    
+    margin:25% 0%;
+    box-shadow: 0px 0px 5px gray;
+}
+.d{margin-left: 40%;
+    color: white;
+background-color:hsl(311deg 100% 15% / 74%);}
+
+.d:hover{background-color:hsl(311deg 100% 15% / 38%) ; 
+color: white;
+}
+a{text-decoration: none;
+    color: white;
+}
+
+.fcolour{
+    color: hsl(311deg 100% 15% / 74%);
+}
+.scolour{
+    color: hsl(311deg 100% 15% / 74%);
+}
+
+.fcolour:hover{color:hsl(311deg 100% 15% / 38%) ; }
+.scolour:hover{color:hsl(311deg 100% 15% / 38%) ; }
+
+#exampleCheck1{background-color:hsl(311deg 100% 15% / 38%) ;}
+#exampleInputEmail1{border:2px solid hsl(311deg 100% 15% / 38%) ;}
+#exampleInputEmail1:hover{box-shadow:0px 0px 19px hsl(311deg 100% 15% / 38%) ;}
+
+#exampleCheck1{background-color:rgba(224, 88, 224, 0.555);}
+
+
+.form-control:focus{box-shadow:0px 0px 3px grey;}
+#exampleCheck1{border:1px solid hsl(311deg 100% 15% / 38%) ;}
+#exampleCheck1:focus{box-shadow:0px 0px 3px grey;}
+
+#password-field{border:2px solid hsl(311deg 100% 15% / 38%) ;}
+#password-field:hover{box-shadow:0px 0px 19px hsl(311deg 100% 15% / 38%) ;}
+
+.reset{height: 300px;}
+
